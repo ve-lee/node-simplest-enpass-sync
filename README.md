@@ -13,3 +13,4 @@ echo "NODE_WEBDAV_USERNAME=$username" >> .env
 echo "NODE_WEBDAV_PASSWORD=$password" >> .env
 node index.js
 ```
+`http://localhost:1900`
