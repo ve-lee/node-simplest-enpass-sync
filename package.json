@@ -1,0 +1,20 @@
+{
+  "name": "node-webdav-server",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.iletaitouheinleyouki.com:minecraft/servers/srv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "webdav-server": "^2.6.2"
+  }
+}
